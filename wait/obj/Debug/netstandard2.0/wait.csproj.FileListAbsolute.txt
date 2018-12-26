@@ -1,0 +1,9 @@
+Z:\nexus\Documents\Visual Studio 2017\Projects\wait\wait\bin\Debug\netstandard2.0\wait.deps.json
+Z:\nexus\Documents\Visual Studio 2017\Projects\wait\wait\bin\Debug\netstandard2.0\wait.dll
+Z:\nexus\Documents\Visual Studio 2017\Projects\wait\wait\bin\Debug\netstandard2.0\wait.pdb
+Z:\nexus\Documents\Visual Studio 2017\Projects\wait\wait\obj\Debug\netstandard2.0\wait.csprojResolveAssemblyReference.cache
+Z:\nexus\Documents\Visual Studio 2017\Projects\wait\wait\obj\Debug\netstandard2.0\wait.csproj.CoreCompileInputs.cache
+Z:\nexus\Documents\Visual Studio 2017\Projects\wait\wait\obj\Debug\netstandard2.0\wait.AssemblyInfoInputs.cache
+Z:\nexus\Documents\Visual Studio 2017\Projects\wait\wait\obj\Debug\netstandard2.0\wait.AssemblyInfo.cs
+Z:\nexus\Documents\Visual Studio 2017\Projects\wait\wait\obj\Debug\netstandard2.0\wait.dll
+Z:\nexus\Documents\Visual Studio 2017\Projects\wait\wait\obj\Debug\netstandard2.0\wait.pdb
